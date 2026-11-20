@@ -1,4 +1,4 @@
-## Hi there , I'm Syeda Quratulain👋
+## Hi! I'm Syeda Quratulain👋
 
 🎓 BS Information Technology Student | Cybersecurity Enthusiast
 
