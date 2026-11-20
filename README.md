@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there , I'm Syeda Quratulain👋
 
+🎓 BS Information Technology Student | Cybersecurity Enthusiast
+
+🔐 Interested in Malware Analysis, Reverse Engineering, SOC, and Digital Forensics.
+
+💻 Exploring cybersecurity through hands-on labs, CTFs, and practical projects.
+
+🐍 Learning Python for cybersecurity.
+
+Learn. Analyze. Build. Repeat.
 <!--
 **SyedaQuratulain098/SyedaQuratulain098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
